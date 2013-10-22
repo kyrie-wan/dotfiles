@@ -1,0 +1,24 @@
+cd
+cd .emacs.d/
+ll
+ls
+cd elpa/
+ll
+ls
+cd auto-complete-1.4/
+ls
+cd doc/
+cd ..
+cd dict/
+pwd
+ll
+ls
+cd elp
+cd elpa/
+ls
+cd yasnippet-0.8.0/
+pwd
+cd elpa/yasnippet-0.8.0/
+ls
+cd snippets/
+pwd
